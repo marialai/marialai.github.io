@@ -11,7 +11,7 @@ module.exports = {
     // Optional: Twitter account handle
     author: `@marialaitt`,
     // Optional: Github account URL
-    github: `https://github.com/marialai`,
+    tumblr: `https://marialai.tumblr.com`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/laimaria/`,
     // Content of the About Me section
