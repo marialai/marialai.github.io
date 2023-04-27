@@ -21,12 +21,12 @@ module.exports = {
     experience: [
       {
         name: 'Snap',
-        description: 'Product Manager for Play Canvas',
+        description: 'Led the development of a 0 to 1 unannounced platform product that would have 10x Snapchat interactive content.',
         link: 'https://snapchat.com/',
       },
       {
         name: 'Microsoft',
-        description: 'Product Manager II for Azure AD',
+        description: 'Designed, led, and launched successful cross-team end-to-end features to drive and optimize user adoption, increasing monthly active users by 1200% (from 750k to 10 mil)',
         link: 'https://azure.microsoft.com/services/active-directory/',
       },
     ],
