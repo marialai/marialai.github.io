@@ -7,15 +7,15 @@ module.exports = {
     // Main Site Title
     title: `Maria Lai | Product Manager`,
     // Description that goes under your name in main bio
-    description: `Product Manager @ Snap`,
+    description: `Product Manager`,
     // Optional: Twitter account handle
-    author: `@marialaitt`,
+    author: `@_marialai`,
     // Optional: Github account URL
     tumblr: `https://marialai.tumblr.com`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/laimaria/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am experienced in building usable and seamless user experiences that result in growth. I have led product teams as large as 12 engineers in building 0 to 1 features and products, E2E from design, prioritization, cross-functional stakeholder alignment, to rallying teams for execution.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
         // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
